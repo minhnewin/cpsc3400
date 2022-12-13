@@ -1,5 +1,7 @@
 # cpsc3400
 
+This is my cpsc3400 Languages and Computation repo used to store my previous work in this class I took in Spring of 2022.
+
 hw1  
 Word Ladder program. Simply, from a given starting word, find the shortest "ladder" of single letter changes which leads to some final word, where each intermediate state is also a word. Python.
 
