@@ -1,0 +1,32 @@
+# Minh Nguyen
+# Homework 1: Python Assignment 1 -- Finding Word Ladders
+# cpsc3400
+# Professor LeBlanc
+
+x = 30
+x = "Hello"
+
+num = 10
+print("The number is: ", num)
+
+inputStr = input("Enter a number: ")
+inputNum = int(inputStr)
+
+#(def, while, for, if, elif, else):
+
+a = 1
+b = 2
+if a < b:
+ print("Less than")
+elif a > b:
+ print("Greater than")
+else:
+ print("Equal")
+
+ 
+x = 1
+sum = 0
+while x < 10:
+ sum = sum + x
+ x = x + 1 # or x += 1 but not x++
+print(sum)
